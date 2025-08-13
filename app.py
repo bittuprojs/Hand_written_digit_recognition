@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 from PIL import Image
-from OpenCV import cv2
+import cv2
 import os
 from tensorflow.keras.models import load_model
 from streamlit_drawable_canvas import st_canvas
