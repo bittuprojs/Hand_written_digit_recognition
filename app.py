@@ -1,3 +1,4 @@
+!pip install streamlit streamlit-drawable-canvas opencv-python
 import streamlit as st
 import numpy as np
 from PIL import Image
